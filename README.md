@@ -9,4 +9,4 @@
 - [Spring](https://github.com/kwYoohae/TIL/tree/master/Spring/)
     - [토비의 스프링](https://github.com/kwYoohae/TIL/tree/master/Spring/%ED%86%A0%EB%B9%84%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A7%81)
 - [ML](https://github.com/kwYoohae/TIL/tree/master/ML)
-    - [파이썬 머신러닝 완벽 가이드](https://github.com/kwYoohae/TIL/tree/master/ML/파이썬%머신러닝%완벽%가이드)
+    - [파이썬 머신러닝 완벽 가이드](https://github.com/kwYoohae/TIL/tree/master/ML/파이썬%20머신러닝%20완벽%20가이드)
